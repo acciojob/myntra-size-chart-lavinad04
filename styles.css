@@ -1,12 +1,25 @@
-
 /* Your CSS Code here. */
 table{
 	border-collapse: collapse;
-	width: 100px;
+	width: 500px;
+	border: 1px solid black;
+}
+#head1{
+	align: left;
 }
 
-#1{
+#head{
 	color: white;
 	background-color: rgba(192, 80, 77, 1);
 }
+#two{
+	color: white;
+	background-color: rgba(218, 150, 148, 1);
+}
 
+#three{
+	background-color: rgba(242, 220,219, 1);
+}
+#four{
+	background-color: rgba(217, 217, 217, 1);
+}
